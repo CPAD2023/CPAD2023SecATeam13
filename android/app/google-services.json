@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154962428188",
+    "project_id": "gptgen-b08e6",
+    "storage_bucket": "gptgen-b08e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154962428188:android:d4dc4a73b403634865bad9",
+        "android_client_info": {
+          "package_name": "com.cpad.gptgen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUa73OFuaY8q5jOxY5VcYbGqj7GDLaM1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
