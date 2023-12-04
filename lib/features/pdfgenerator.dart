@@ -8,7 +8,7 @@ class CreatePdf {
 
     final listWidgets = getTextData(descriptiontext);
     for (var value in listWidgets) {
-      widgetList.add(value);
+      widgetList.add(value);  
     }
     final pdf = pdfWidget.Document(pageMode: PdfPageMode.fullscreen);
     pdf.addPage(pdfWidget.MultiPage(
