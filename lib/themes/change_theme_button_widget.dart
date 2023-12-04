@@ -7,7 +7,7 @@ bool changed= true;
 
 class ChangeThemeButtonWidget extends StatelessWidget {
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context) {  
     final themeProvider = Provider.of<ThemeProvider>(context);
 
     return Container(
