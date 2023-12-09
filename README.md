@@ -1,7 +1,7 @@
 
 # GPTGEN-All in One AI Generator!
 
-GENGPT 💬 aims to be your go-to 🏄‍♀️ AI companion, seamlessly integrating into various aspects of your personal and professional life. Whether you need assistance with coding 👩‍💻, language translation, or creative writing, GENGPT is your all-in-one AI generator 💫.
+GPTGEN 💬 aims to be your go-to 🏄‍♀️ AI companion, seamlessly integrating into various aspects of your personal and professional life. Whether you need assistance with coding 👩‍💻, language translation, or creative writing, GENGPT is your all-in-one AI generator 💫.
 
 
 ## API Reference
