@@ -169,7 +169,7 @@ class _ChatPageState extends State<ChatPage> {
                             ),
                             SizedBox(width: 12),
                             Text(
-                              "ChatGPT",
+                              "GPTGEN",
                               style: TextStyle(
                                 color: Color.fromRGBO(0, 0, 0, 1),
                                 fontSize: 18,
