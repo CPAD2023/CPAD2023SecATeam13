@@ -19,7 +19,7 @@ GPTGEN 💬 aims to be your go-to 🏄‍♀️ AI companion, seamlessly integra
 
 - [Arpitha MJ](https://www.github.com/arpitha93045)
 - [Yukta Ashrani](https://www.github.com/2022sp93056)
-- [Ruchitha Akula](https://github.com/RuchiRoyal)
+- [Ruchitha Akula](https://github.com/RuchithaAkula1)
 
 
 
