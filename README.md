@@ -82,6 +82,11 @@ Start the emulator
 <img width="254" alt="Screenshot 2023-12-09 at 5 11 11 PM" src="https://github.com/CPAD2023/CPAD2023SecATeam13/assets/126740090/243ef53e-0ce3-4df3-b2f1-3b9bff6bf8f9">
 <img width="254" alt="Screenshot 2023-12-09 at 5 11 21 PM" src="https://github.com/CPAD2023/CPAD2023SecATeam13/assets/126740090/c209be81-75d0-42fe-a977-33dfe8baaaa6">
 
+## Running on IOS Simulator
+
+<img width="398" alt="Screenshot 2023-12-09 at 8 01 02 PM" src="https://github.com/CPAD2023/CPAD2023SecATeam13/assets/145866457/9b0a7b61-d8f9-4767-9cc9-b401cfe2784e">
+
+
 
 ## Tech Stack
 
